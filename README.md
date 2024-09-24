@@ -3,4 +3,5 @@ En este repositorio se realizara un resumen para poder estudiar de manera correc
 Este sitio es un server comunista somos todos autores
 ## Autores:
 * Nacho xd
-* Seba Agusto :)
+* Seba Agusto xd
+* Jessica Valenzuela xd
