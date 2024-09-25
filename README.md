@@ -5,6 +5,7 @@ Este sitio es un server comunista somos todos autores
 
 ## Autores:
 * Nacho xd
-* Seba Agusto xd
+* Seba Agusto xd (Hizo la seccion **Modelacion OOP e iterables**)
 * Jessica Valenzuela xd
-![Logo de Markdown](https://upload.wikimedia.org/wikipedia/commons/b/b7/Christian_communism_logo.svg)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Christian_communism_logo.svg" alt="Logo de Markdown" width="150" height="150">
